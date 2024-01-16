@@ -10,8 +10,8 @@ The following are what I like:
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,go,kotlin,python,php,rust)
 
-![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,raspberrypi,md,ps)
+![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,raspberrypi,md,ps,pug,gradle,androidstudio,postman)
 
-![My Skills](https://skillicons.dev/icons?i=webpack,babel,vite,react,vue,svelte,solidjs,redux,sass,electron,jquery,pug,gradle)
+![My Skills](https://skillicons.dev/icons?i=webpack,babel,vite,react,vue,svelte,solidjs,redux,sass,electron,jquery)
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,deno,nginx,mysql,redis,vim,neovim,bash,powershell,vscode,idea,androidstudio,postman)
+![My Skills](https://skillicons.dev/icons?i=nodejs,deno,nginx,mysql,redis,vim,neovim,bash,powershell,vscode,idea)
