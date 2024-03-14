@@ -4,14 +4,12 @@ I am working on my postgraduate career.
 
 You could visit my blog on [cufoon.com](https://cufoon.com)🌏 (under refactoring)
 
-Or my pins maybe give you some help if you need.
+Or **my pins below** maybe give you some help if you need.
 
 The following are what I like:
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,go,kotlin,python,php,rust)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,webpack,babel,vite,react,vue,svelte,solidjs,redux,sass,electron)
 
-![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,raspberrypi,md,ps,pug,gradle,androidstudio,postman)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,kotlin,python,php,java,deno,mysql,redis,postman,docker,vim,powershell)
 
-![My Skills](https://skillicons.dev/icons?i=webpack,babel,vite,react,vue,svelte,solidjs,redux,sass,electron,jquery)
-
-![My Skills](https://skillicons.dev/icons?i=nodejs,deno,nginx,mysql,redis,vim,neovim,bash,powershell,vscode,idea)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,gradle,vscode,idea,md,raspberrypi,ps,pug,,,,,,,)
